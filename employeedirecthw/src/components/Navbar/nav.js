@@ -7,7 +7,7 @@ function Nav() {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
 
        <div className="search-area col-4">
-        <searchName />
+        <SearchSection />
     </div>
 </nav>
     );

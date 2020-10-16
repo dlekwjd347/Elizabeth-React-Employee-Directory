@@ -1,30 +1,18 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-// import Wrapper from './components/Wrapper';
-// import Navbar from './components/Navbar';
-import API from './utils/API';
-class App extends Component {
-state = {
-  fakePeople:[{}]
-}
+import React from 'react';
+import Main from "./components/Main";
+import Wrapper from "./components/Wrapper";
+import Header from "./components/Header";
+import "./App.css";
 
-// componentDidMount(){
-//   API.getUsers().then(result => {
-//     this.setState({
-//       fakePeople: result.data.results
-//     });
-//   });
-// }
-// render (){
-//   return (
-//   <Wrapper>
-//     {/* <Navbar /> */}
-//     {/* add other components here */}
-//   </Wrapper>
-//   );
-// }
-//   )
-// }
+function App() {
+  return (
+    <div className="App">
+   <Wrapper>
+     <Header />
+     <Main />
+   </Wrapper>
+    </div>
+  );
+}
 
 export default App;
