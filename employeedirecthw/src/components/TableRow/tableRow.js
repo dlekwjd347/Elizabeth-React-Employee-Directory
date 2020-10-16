@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import TableBody from "../TableBody";
+import TableBody from "../TableBody/tableBody";
 import "./style.css";
 import DataAreaHook from '../../utils/dataHook';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import "./style.css";
-import "../SearchSection/search";
+import SearchSection from "../SearchSection/search";
 
 function Nav() {
     return (

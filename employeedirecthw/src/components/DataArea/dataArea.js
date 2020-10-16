@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
-import TableRow from "../TableRow";
-import Nav from "../Navbar";
+import TableRow from "../TableRow/tableRow";
+import Nav from "../Navbar/nav";
 import API from "../../utils/API";
 import "./style.css";
 import DataAreaHook from "../../utils/dataHook"
@@ -90,9 +90,7 @@ return b[heading]-  a[heading];
         >
           <Nav />
           <div className="data-area">
-            {developerState.filteredUsers.length > 0 
-    ? <TableRow />
-     : <div></div>
+            {developerState.filteredUsers.length > 0 ? <TableRow /> : <div></div>
      }
           </div>
         </DataAreaHook.Provider>
