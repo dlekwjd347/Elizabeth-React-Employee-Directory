@@ -29,9 +29,10 @@ The user should be able to:
 
 ## Deployed Links
 
-
-
 * https://dlekwjd347.github.io/Elizabeth-React-Employee-Directory/index 
 
 * https://github.com/dlekwjd347/Elizabeth-React-Employee-Directory
 
+## Deployed Site
+
+![Employee Directory](../assets/screenshot.JPG)
