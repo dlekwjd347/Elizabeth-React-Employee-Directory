@@ -8,14 +8,14 @@ import DataAreaHook from "../../utils/dataHook"
 const DataArea = () => {
       const [developerState, setDeveloperState] = useState({
         users: [],
-        order: "ascend",
+        order: "descend",
         filteredUsers: [],
         headings: [
-          { name: "Image", width: "10%", },
-          { name: "Name", width: "10%", },
-          { name: "Phone", width: "20%", },
-          { name: "Email", width: "20%", },
-          { name: "DOB", width: "10%", }
+          { name: "Image", width: "10%", order: "descend" },
+          { name: "name", width: "10%", order: "descend" },
+          { name: "phone", width: "20%", order: "descend" },
+          { name: "email", width: "20%", order: "descend" },
+          { name: "dob", width: "10%", order: "descend" }
         ]
       });
     
