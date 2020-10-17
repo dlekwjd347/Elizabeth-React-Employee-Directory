@@ -35,4 +35,4 @@ The user should be able to:
 
 ## Deployed Site
 
-![Employee Directory](../assets/screenshot.JPG)
+![Employee Directory](https://github.com/dlekwjd347/Elizabeth-React-Employee-Directory/blob/main/assets/screenshot.JPG)
