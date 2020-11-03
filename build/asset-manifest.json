@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Elizabeth-React-Employee-Directory/static/css/main.1ee52a46.chunk.css",
+    "main.js": "/Elizabeth-React-Employee-Directory/static/js/main.dd7f3304.chunk.js",
+    "main.js.map": "/Elizabeth-React-Employee-Directory/static/js/main.dd7f3304.chunk.js.map",
+    "runtime-main.js": "/Elizabeth-React-Employee-Directory/static/js/runtime-main.4181a74b.js",
+    "runtime-main.js.map": "/Elizabeth-React-Employee-Directory/static/js/runtime-main.4181a74b.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Elizabeth-React-Employee-Directory/static/css/2.2a86faee.chunk.css",
+    "static/js/2.a0f1106c.chunk.js": "/Elizabeth-React-Employee-Directory/static/js/2.a0f1106c.chunk.js",
+    "static/js/2.a0f1106c.chunk.js.map": "/Elizabeth-React-Employee-Directory/static/js/2.a0f1106c.chunk.js.map",
+    "index.html": "/Elizabeth-React-Employee-Directory/index.html",
+    "precache-manifest.56fef6618675853e5857431ce58a6251.js": "/Elizabeth-React-Employee-Directory/precache-manifest.56fef6618675853e5857431ce58a6251.js",
+    "service-worker.js": "/Elizabeth-React-Employee-Directory/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Elizabeth-React-Employee-Directory/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.1ee52a46.chunk.css.map": "/Elizabeth-React-Employee-Directory/static/css/main.1ee52a46.chunk.css.map",
+    "static/js/2.a0f1106c.chunk.js.LICENSE.txt": "/Elizabeth-React-Employee-Directory/static/js/2.a0f1106c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4181a74b.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.a0f1106c.chunk.js",
+    "static/css/main.1ee52a46.chunk.css",
+    "static/js/main.dd7f3304.chunk.js"
+  ]
+}
