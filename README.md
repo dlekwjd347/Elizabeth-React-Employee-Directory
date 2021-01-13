@@ -29,7 +29,7 @@ The user should be able to:
 
 ## Deployed Links
 
-* https://dlekwjd347.github.io/Elizabeth-React-Employee-Directory/index 
+* https://dlekwjd347.github.io/elizabeth-react-employee-directory/
 
 * https://github.com/dlekwjd347/Elizabeth-React-Employee-Directory
 
